@@ -20,7 +20,8 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
   **Conclusions**
   - Consumers in Cluster 1 should be targeted as they yield the highest average RFM score and bring in the most Revenue
   - Cluster 1 likely represents existing customers who may need re-engagement efforts to bring them back for future purchases.
-  - Cluster 2 likely represents new or potentially low-value customers who may require nurturing and incentivization to increase their frequency and monetary value over time which can be costly to execute 
+  - Cluster 2 likely represents new or potentially low-value customers who may require nurturing and incentivization to increase their frequency and monetary value over time which can be costly to execute
+  ________________________
   
 
 
