@@ -18,7 +18,7 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
   - Excel
 
   **Techniques Used**
-  - performed exploratory data analysis using python 
+  - performed exploratory data analysis using python to identify data quality issues and outliers
   - utilized Recency Frequency Monetary Scoring to segment customers
   - performed K-means clustering with RFM segments to identify target groups 
 
