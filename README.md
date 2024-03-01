@@ -18,8 +18,9 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
   - performed K-means clustering with RFM segments to identify target groups 
 
   **Conclusions**
-  - consumers in Cluster 1 should be target as they yield the highest average RFM score 
-  - 
+  - Consumers in Cluster 1 should be target as they yield the highest average RFM score and bring in the most Revenue
+  - Cluster 1 likely represents existing customers who may need re-engagement efforts to bring them back for future purchases.
+  - Cluster 2 likely represents new or potentially low-value customers who may require nurturing and incentivization to increase their frequency and monetary value over time.
 
 
   
