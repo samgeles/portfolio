@@ -18,7 +18,7 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
   - performed K-means clustering with RFM segments to identify target groups 
 
   **Conclusions**
-  - consumers in Cluster 1 should be target as they yield the highest RFM score 
+  - consumers in Cluster 1 should be target as they yield the highest average RFM score 
   - 
 
 
