@@ -7,6 +7,22 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
 - Analysed data to target high-value customers based on demographics and attributes
 - Developed dashboards to communicate findings with visuals
 
+  **Challenges**
+  - identify data quality issues for clients current data
+  - creating the variables for which customer value should be measured by
+  - identify what groups of customers to target 
+
+  **Techniques Used**
+  - performed exploratory data analysis using python 
+  - utilized Recency Frequency Monetary Scoring to segment customers
+  - performed K-means clustering with RFM segments to identify target groups 
+
+  **Conclusions** 
+  - 
+
+
+  
+
 
 **Tableau Viz I Created** 
 
