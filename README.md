@@ -17,7 +17,8 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
   - utilized Recency Frequency Monetary Scoring to segment customers
   - performed K-means clustering with RFM segments to identify target groups 
 
-  **Conclusions** 
+  **Conclusions**
+  - consumers in Cluster 1 should be target as they yield the highest RFM score 
   - 
 
 
