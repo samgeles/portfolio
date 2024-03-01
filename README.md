@@ -6,7 +6,7 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
 - Assessed data quality and completeness in preparation for analysis
 - Analysed data to target high-value customers based on demographics and attributes
 - Developed dashboards to communicate findings with visuals
-
+  ________________________
   **Challenges**
   - identify data quality issues for clients current data
   - creating the variables for which customer value should be measured by
