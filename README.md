@@ -10,7 +10,12 @@ KPMG AU Data Analytics Job Simulation on Forage - November 2023
   **Challenges**
   - identify data quality issues for clients current data
   - creating the variables for which customer value should be measured by
-  - identify what groups of customers to target 
+  - identify what groups of customers to target
+ 
+  **Technology Used**
+  - Python
+  - Tableau
+  - Excel
 
   **Techniques Used**
   - performed exploratory data analysis using python 
