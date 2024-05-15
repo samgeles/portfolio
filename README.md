@@ -1,6 +1,6 @@
 **Project Summary**
 
-KPMG AU Data Analytics Job Simulation on Forage - November 2023
+KPMG AU Data Analytics Virtual Internship - November 2023
 
 - Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
 - Assessed data quality and completeness in preparation for analysis
